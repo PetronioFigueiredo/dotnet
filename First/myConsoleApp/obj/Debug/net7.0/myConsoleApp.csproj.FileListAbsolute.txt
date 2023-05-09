@@ -1,0 +1,15 @@
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/bin/Debug/net7.0/myConsoleApp
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/bin/Debug/net7.0/myConsoleApp.deps.json
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/bin/Debug/net7.0/myConsoleApp.runtimeconfig.json
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/bin/Debug/net7.0/myConsoleApp.dll
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/bin/Debug/net7.0/myConsoleApp.pdb
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.csproj.AssemblyReference.cache
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.AssemblyInfoInputs.cache
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.AssemblyInfo.cs
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.csproj.CoreCompileInputs.cache
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.dll
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/refint/myConsoleApp.dll
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.pdb
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/myConsoleApp.genruntimeconfig.cache
+/home/vladimus/Documents/git_folders/dotnet/First/myConsoleApp/obj/Debug/net7.0/ref/myConsoleApp.dll
