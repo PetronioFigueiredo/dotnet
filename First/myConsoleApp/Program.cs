@@ -1,16 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System;
 
-namespace HelloWorld
-{
-    class Program
-    {
-        static void main(string[] arg)
-        {
-            Console.Clear();
-            Console.WriteLine("Hello, World");
-
-        }
-    }
-
-}
+Console.Clear();
+Console.WriteLine("Hello, minha benga");
+Console.WriteLine("Hello, porra!");
